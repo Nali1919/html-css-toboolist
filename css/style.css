@@ -1,7 +1,35 @@
+body{
+    background-color:#f6f8f9;
+}
 .head{
 width: 1200px;
+padding-left: 10px;
+background-color: white;
+
 }
 h1{
  display: inline-block;
- 
+}
+.corps{
+    margin-top: 60px;
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 700px;
+    background-color: white;
+}
+.bottone{
+background-color: rgb(28, 103, 201);
+color: white;
+border: 0ch;
+border-radius: 5px;
+}
+.bottone2{
+ width: 100px;
+}
+.bottone1{
+    background-color: rgb(28, 103, 201);
+    color: white;
+    border: 0ch;
+    border-radius: 10px;
+
 }
