@@ -11,6 +11,11 @@ margin: 0;
 h1{
  display: inline-block;
 }
+h2{
+margin-left: 0;
+margin-bottom: 2px;
+
+}
 .corps{
 background-color: white;
 margin-top: 60px;
@@ -52,9 +57,18 @@ width: 70px;
     
 }
 .bottone.bottone3{
-    background-color: green;
-    width: 70px;
+ background-color: green;
+width: 70px;
 }
 .bottone.bottone4{
-    background-color: orange;
+ background-color: orange;
+}
+.bottone5{
+ background-color: pink;
+}
+.bottone6{
+ background-color: greenyellow;
+}
+.bottone7{
+ background-color: aqua;
 }
